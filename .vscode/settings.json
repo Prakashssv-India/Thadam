@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5a3ac384-dc8b-4063-9e7d-efa045182159/resourceGroups/TestWebAPIHosting20200201094032ResourceGroup/providers/Microsoft.Web/sites/AngularAppTesting"
+}

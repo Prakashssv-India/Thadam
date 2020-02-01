@@ -2,8 +2,8 @@
   "name": "thadam",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
+    "ng": "ng",    
+    "start": "node ./node_modules/babel-cli/bin/babel-node.js index.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
